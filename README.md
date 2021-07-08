@@ -5,6 +5,6 @@ DESCRIPTION: My personal place on the web. Just a quick way for the world to lea
 GOAL:  
 Build a professional profile page to showcase my WebDev skills, highlight a few projects and allow all those who happen to come across my profile, the opportunity to find out more about the man behind the code.
 
-LINK: https://pmarceaujr.github.io/Professional_profile/
+LINK: https://pmarceaujr.github.io/ProfessionalProfile_2.0/
 
 SCREENSHOT: ![Screenshot](./images/profileshot.png)
